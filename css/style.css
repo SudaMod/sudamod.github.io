@@ -94,8 +94,8 @@ a img {
   font-family: "covered_by_your_graceregular";
   font-weight: normal;
   font-style: normal;
-  src: url("../font/Monaco.eot");
-  src: url("../font/Monaco.eot?#iefix") format('embedded-opentype'), url("../font/Monaco.svg#covered_by_your_graceregular") format('svg'), url("../font/Monaco.woff") format('woff'), url("../font/Monaco.ttf") format('truetype');
+  src: url("../font/segoescb.eot");
+  src: url("../font/segoescb.eot?#iefix") format('embedded-opentype'), url("../font/segoescb.svg#covered_by_your_graceregular") format('svg'), url("../font/segoescb.woff") format('woff'), url("../font/segoescb.ttf") format('truetype');
 }
 /* icon Font */
 @font-face {
