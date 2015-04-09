@@ -94,8 +94,8 @@ a img {
   font-family: "covered_by_your_graceregular";
   font-weight: normal;
   font-style: normal;
-  src: url("../font/segoescb.eot");
-  src: url("../font/segoescb.eot?#iefix") format('embedded-opentype'), url("../font/segoescb.svg#covered_by_your_graceregular") format('svg'), url("../font/segoescb.woff") format('woff'), url("../font/segoescb.ttf") format('truetype');
+  src: url("../font/segoesc.eot");
+  src: url("../font/segoesc.eot?#iefix") format('embedded-opentype'), url("../font/segoesc.svg#covered_by_your_graceregular") format('svg'), url("../font/segoesc.woff") format('woff'), url("../font/segoesc.ttf") format('truetype');
 }
 /* icon Font */
 @font-face {
@@ -1758,7 +1758,7 @@ footer {
   width: 6.875em;
   height: 6.875em;
   margin: 0 auto;
-  background: no-repeat url("/img/author.jpg") left top;
+  background: no-repeat url("/img/sudamod.png") left top;
   -webkit-background-size: 6.875em 6.875em;
   -moz-background-size: 6.875em 6.875em;
   background-size: 6.875em 6.875em;
